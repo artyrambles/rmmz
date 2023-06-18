@@ -1,4 +1,4 @@
-# Arty's RMMV Plugins
+# Arty's RMMZ Plugins
 Here you can find all my released plugins. They have been tested with v1.6.2 of RPG Maker MV and may not work on older versions.
 
 ## TERMS
