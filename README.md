@@ -8,4 +8,4 @@ My plugins are free to use for commercial and non-commercial projects, **as long
 
 **Another example:** "Heal Over Time, Follower Vehicles, Post Battle Common Events plugins by Arty"
 
-My RMMZ plugins are released under the GNU Public License. You can use, share and modify them, but you cannot re-release them or modified versions of them as closed source/paid plugins.
+My RMMZ plugins are released under the GNU General Public License. You can use, share and modify them, but you cannot re-release them or modified versions of them as closed source/paid plugins.
